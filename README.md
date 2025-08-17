@@ -9,3 +9,4 @@ Description of machine learning project:
 
 Description of R Shiny project:
 - app.R is the app I created to visualize gene and cell interactions in Alzheimer's Disease.
+- Supplemental data is not included as it is not owned by me.
